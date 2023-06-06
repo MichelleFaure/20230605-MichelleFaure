@@ -1,0 +1,24 @@
+  340  git clone https://github.com/MichelleFaure/20230605-MichelleFaure.git
+  341  cd 20230605-MichelleFaure/
+  342  touch comandos.txt main.js index.html
+  343  git add .
+  344  git commit -m "commit 01 de MichelleFaure"
+  345  git branch -M main
+  346  git push -u origin main
+  347  git branch feature01
+  348  git chekout feature01
+  349  git checkout feature01
+  350  mkdir Terminal Hardware
+  351  touch Terminal/resumen.txt Hardware/resumen.txt
+  352  git add .
+  353  git commit -m "commit 02 de MichelleFaure"
+  354  git push
+  355  git push origin feature01
+  356  git branch feature02
+  357  git checkout feature02
+  358  git add .
+  359  git commit -m "commit 03 de MichelleFaure"
+  360  git push origin feature02
+  361  git checkout main
+  362  mv comandos.txt comandorUtilizador.txt
+  363  history
