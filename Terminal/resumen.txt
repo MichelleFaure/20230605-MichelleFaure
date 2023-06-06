@@ -1,0 +1,5 @@
+mkdir -> para crear carpetas.
+touch -> para crear archivos.
+cp -> para copiar archivo o carpeta.
+rm -> para eliminar archivos.
+cd -> para cambiar de carpeta.

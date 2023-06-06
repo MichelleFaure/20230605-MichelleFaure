@@ -1,0 +1,4 @@
+1) procesador.
+2) memoria RAM.
+3) GPU.
+4) Fuente de alimentacion. 
